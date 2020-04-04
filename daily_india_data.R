@@ -3,9 +3,7 @@ library(dplyr)
 library(tidyr)
 library(lubridate)
 library(aws.s3)
-Sys.setenv("AWS_ACCESS_KEY_ID" = "AKIAIIH4JE5NMIPROCHA",
-           "AWS_SECRET_ACCESS_KEY" = "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",
-           "AWS_DEFAULT_REGION" = "ap-south-1")
+source("amazon_creds.R")
 
 setwd("G:\\My Drive\\Projects\\COVID_INDIA")
 

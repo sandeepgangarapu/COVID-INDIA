@@ -847,3 +847,31 @@ Please use a list of either functions or lambdas:
   # Using lambdas
   list(~ mean(., trim = .2), ~ median(., na.rm = TRUE))
 This warning is displayed once per session. 
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Error in read_html(mohw_url) : could not find function "read_html"
+Execution halted

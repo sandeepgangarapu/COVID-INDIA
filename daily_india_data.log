@@ -875,3 +875,1711 @@ Warning message:
 package 'aws.s3' was built under R version 3.6.3 
 Error in read_html(mohw_url) : could not find function "read_html"
 Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file 'amazon_creds.R': No such file or directory
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Error in fix.by(by.y, y) : 'by' must specify a uniquely valid column
+Calls: %>% ... freduce -> <Anonymous> -> merge -> merge.data.frame -> fix.by
+Execution halted
+Warning message:
+package 'jsonlite' was built under R version 3.6.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'tidyr' was built under R version 3.6.3 
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.6.3 
+Warning message:
+package 'aws.s3' was built under R version 3.6.3 
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.3 
+2: package 'xml2' was built under R version 3.6.3 
+Warning messages:
+1: NAs introduced by coercion 
+2: NAs introduced by coercion 
+3: NAs introduced by coercion 
+Warning message:
+funs() is soft deprecated as of dplyr 0.8.0
+Please use a list of either functions or lambdas: 
+
+  # Simple named list: 
+  list(mean = mean, median = median)
+
+  # Auto named with `tibble::lst()`: 
+  tibble::lst(mean, median)
+
+  # Using lambdas
+  list(~ mean(., trim = .2), ~ median(., na.rm = TRUE))
+This warning is displayed once per session. 
